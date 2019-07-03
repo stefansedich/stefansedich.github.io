@@ -2,3 +2,4 @@ theme: jekyll-theme-hacker
 highlighter: rouge
 title: stefansedich.com
 description: Blog
+google_analytics: UA-143269966-1
